@@ -1,3 +1,3 @@
 # hello-world
 Val's repository 
-<h2> Trying to figure out what I am doing. </h2>
+<p> Trying to figure out what I am doing. </p>
